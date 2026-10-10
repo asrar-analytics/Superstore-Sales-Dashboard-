@@ -62,7 +62,3 @@ superstore-sales-analysis/
 ### Detailed Analysis
 
 ![Detailed Analysis](./Detailed%20Analysis.png)
-
-
-
--analysis.png
