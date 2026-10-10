@@ -35,23 +35,7 @@ The main objectives of this project are to:
 
 ---
 
-## 📂 Project Structure
 
-```text
-superstore-sales-analysis/
-│
-├── README.md
-│
-├── Superstore_SQL_Analysis.ipynb
-│
-├── Superstore_Sales_Dashboard.pbix
-│
-├── data/
-│   └── Superstore_Comma.csv
-│
-└── screenshots/
-    ├── dashboard.png
-    └── detailed
 ## 📊 Dashboard Preview
 ![Sales Dashboard](Sales%20Dashboard.png)
 
