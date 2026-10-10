@@ -40,3 +40,18 @@ The main objectives of this project are to:
 ![Sales Dashboard](Sales%20Dashboard.png)
 
 ![Detailed Analysis](Detailed%20Analysis.png)
+
+## 🛠️ Project Deliverables
+
+- **SQL Analysis:** Business analysis using SQL and SQLite.
+- **Power BI Dashboard:** Interactive dashboard for sales and profitability analysis.
+- **Dashboard Screenshots:** Visual previews of the analysis.
+
+## 📌 Skills Demonstrated
+
+- Data Analysis
+- SQL Queries
+- Data Cleaning
+- KPI Analysis
+- Data Visualization
+- Business Insights
