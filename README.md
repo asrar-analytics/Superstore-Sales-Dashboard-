@@ -52,13 +52,7 @@ superstore-sales-analysis/
 └── screenshots/
     ├── dashboard.png
     └── detailed
-
 ## 📊 Dashboard Preview
+![Sales Dashboard](Sales%20Dashboard.png)
 
-### Sales Dashboard
-
-![Sales Dashboard](./Sales%20Dashboard.png)
-
-### Detailed Analysis
-
-![Detailed Analysis](./Detailed%20Analysis.png)
+![Detailed Analysis](Detailed%20Analysis.png)
